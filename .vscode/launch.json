@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "name": "Run App On Chrome",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "-d",
+                "chrome",
+            ],
+        },
+    ]
+}
