@@ -17,11 +17,11 @@ void main() async {
   // Extract The Text From The Asset SVG File.
   svgCode = await rootBundle.loadString("assets/car_front.svg");
 
-  runApp(const MyApp());
+  runApp(const SVGColorizationApp());
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({Key? key}) : super(key: key);
+class SVGColorizationApp extends StatelessWidget {
+  const SVGColorizationApp({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
