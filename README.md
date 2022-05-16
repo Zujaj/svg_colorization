@@ -2,6 +2,14 @@
 
 A tutorial that demonstrates how to switch colors of an SVG file in Flutter.
 
+To get into more details, read [this article](https://zujaj.hashnode.dev/how-to-color-switch-an-svg-in-flutter).
+
+## The SVG Colorization App
+
+![SVG Colorization App](https://cdn.hashnode.com/res/hashnode/image/upload/v1652540925611/aU4XY37Wh.gif?auto=format,compress&gif-q=60&format=webm)
+
+Here's the [link](https://svg-colorization.web.app/) to the app.
+
 ## Project Structure
 
 All the `code` has been written as per the [best practices](https://dart.dev/guides/language/effective-dart/documentation). The below folder structure has been adopted to make the `code` look more understandable.
@@ -39,3 +47,7 @@ svg_colorization
 ## Developer
 
 [Zujaj Misbah Khan](https://github.com/Zujaj)
+
+## Acknowledgement
+
+Thanks to the [community](http://hashnode.com/) for introducing the [The Epic Hashnode Writeathon](https://townhall.hashnode.com/the-epic-hashnode-writeathon).
