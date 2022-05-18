@@ -6,7 +6,7 @@ To get into more details, read [this article](https://zujaj.hashnode.dev/how-to-
 
 ## The SVG Colorization App
 
-![SVG Colorization App](https://media.giphy.com/media/XydefyiJLXWBj55geD/giphy.gif)
+![SVG Colorization App](https://camo.githubusercontent.com/9e7cd343495fa6032ea3adbaf6b8d93bff07ec3bc9deeccfdaa2bdf62d04861a/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313635323534303932353631312f6155345859333757682e676966)
 
 Here's the [link](https://svg-colorization.web.app/) to the app.
 
